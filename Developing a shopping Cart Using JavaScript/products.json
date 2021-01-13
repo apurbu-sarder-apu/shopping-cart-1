@@ -1,0 +1,74 @@
+{
+    "status": "success",
+    "items": [{
+        "id": 1,
+        "title": "Data Structures And Algorithms",
+        "price": 2000,
+        "image": "./images/project-1.png"
+    },
+    {
+        "id": 2,
+        "title": "Emotional Intelligence: A Guide for Excellence in Personal & Professional Life",
+        "price": 350,
+        "image": "./images/project-2.png"
+    },
+    {
+        "id": 3,
+        "title": "Python for Beginners",
+        "price": 750,
+        "image": "./images/project-3.png"
+    },
+    {
+        "id": 4,
+        "title": "GRE Verbal Preparation",
+        "price": 2100,
+        "image": "./images/project-4.png"
+    },
+    {
+        "id": 5,
+        "title": "Django Projects: Blog, eCommerce & Social Media Websites",
+        "price": 1500,
+        "image": "./images/project-5.png"
+    },
+    {
+        "id": 6,
+        "title": "Building A Messenger Chatbot for Your Business with EZAssist",
+        "price": 600,
+        "image": "./images/project-6.png"
+    },
+    {
+        "id": 7,
+        "title": "SQL For Data Science",
+        "price": 1200,
+        "image": "./images/project-7.png"
+    },
+    {
+        "id": 8,
+        "title": "Mastering IELTS Writing: Academic & General",
+        "price": 1000,
+        "image": "./images/project-8.png"
+    },
+    {
+        "id": 9,
+        "title": "Macros & VBA for Excel Automation",
+        "price": 1500 ,
+        "image": "./images/project-9.png"
+    },
+    {
+        "id": 10,
+        "title": "React Native for Multiplatform App Development",
+        "price": 1800,
+        "image": "./images/project-10.png"
+    },
+    {
+        "id": 11,
+        "title": "YouTube Marketing for Organic Reach",
+        "price": 0.00,
+        "image": "./images/project-11.png"
+    }
+]
+}
+
+
+
+
